@@ -1,7 +1,7 @@
 # 🚂 Railway Starters
 
 Here be dragons.
-
+If you have any questions or problems running the examples, please don't hesitate to reach out on our Discord server.
 Create a new Railway project 👉 [dev.new](https://dev.new)
 
 # Using the starters
